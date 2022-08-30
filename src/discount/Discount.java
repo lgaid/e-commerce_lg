@@ -1,6 +1,8 @@
 package discount;
 
 
+import java_ecommerce.Cart;
+
 import java.util.UUID;
 
 public abstract class Discount {
